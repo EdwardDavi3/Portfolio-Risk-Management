@@ -1,8 +1,4 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
+
 # Portfolio Risk & Stress-Testing Framework
 
 An end-to-end market-risk framework built to apply quantitative techniques from Georgia State's QRAM (Quantitative Risk Analysis and Management) program to a real portfolio-management workflow — from data acquisition through historical backtesting, hypothetical stress testing, factor sensitivity, reverse stress testing, and portfolio-management decisions.
